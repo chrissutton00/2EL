@@ -1,8 +1,7 @@
 
 # $\mathscr{Q}$ $\mathscr{E}$ $\mathscr{L}$
 
-## quantum-experiments
+# Quantum Electronics Laboratory
 
-$\mathscr{Q}$
 
 
