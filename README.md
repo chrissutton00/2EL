@@ -1,4 +1,4 @@
-# Quantum Electronics Laboratoy
+# $\mathscr{Quantum Electronics Laboratory}$
 
 ## quantum-experiments
 
