@@ -1,4 +1,4 @@
-# $\mathscr{Q}$uantum $\mathscr{E}$lectronics $\mathscr{L}$aboratory
+# $\mathscr{Q}$ $\mathscr{E}$ $\mathscr{L}$
 
 ## quantum-experiments
 
